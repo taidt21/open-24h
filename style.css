@@ -857,6 +857,7 @@ img {
 
 .service-item:nth-child(2) .service-progressBar {
     background: #7C3367;
+    width: 8.541666666666666vw;
 }
 
 .service-item:nth-child(3) .service-statistical {
@@ -871,6 +872,7 @@ img {
 
 .service-item:nth-child(3) .service-progressBar {
     background: #009EF7;
+    width: 13.125vw;
 }
 
 .service-item:nth-child(4) .service-statistical {
@@ -885,6 +887,7 @@ img {
 
 .service-item:nth-child(4) .service-progressBar {
     background: #F1416C;
+    width: 9.722222222222223vw;
 
 }
 
@@ -901,6 +904,7 @@ img {
 
 .service-item:nth-child(5) .service-progressBar {
     background: #50CD89;
+    width: 7.013888888888889vw;
 
 }
 
